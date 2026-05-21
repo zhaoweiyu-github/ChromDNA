@@ -1,9 +1,16 @@
-Template for the Read the Docs tutorial
-=======================================
+ChromDNA
+========
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+ChromDNA is a reinforcement learning framework for DNA sequence
+generation that operates directly within chromatin environments.
+It couples sequence-level policies with chromatin-aware reward
+models so that generated sequences are optimized not only for their
+primary objective but also for the surrounding epigenomic context
+(e.g. accessibility and histone modification landscapes).
 
-Read the tutorial here:
+Status
+------
 
-https://docs.readthedocs.io/en/stable/tutorial/
+This project is under active development. We are polishing the
+codebase, documentation, and pretrained checkpoints, and we plan to
+release ChromDNA publicly as soon as possible. Stay tuned!
